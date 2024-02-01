@@ -2,7 +2,7 @@
 * My name is Hafsah Alkhammal, I am a junior at Florida International University
 * I love to read, especially fantasy and romance books
 * I'm 21 years old
-* I'm interning at FIU's CIARA IT department as a software engineer intern
+* I'm interning at FIU's CIARA IT department as a software developer intern
 * I have a black belt in taekwondo 🥋
 * In my future I hope to become a successful software engineer
 * I have two cats Luna and Stache! Fun fact- Stache was nicknamed "Mustache" because he always had a milk mustache as a kitten & has a permanent white stache now
