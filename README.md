@@ -10,6 +10,8 @@
 **˚ʚ♡ɞ˚ Learning ˚ʚ♡ɞ˚**
 * Python Essential Training by Ryan Mitchell on LinkedinLearning
 * Learning Python with Joe Marini on LinkedinLearning
+* Advanced Python with Joe Marini on LinkedinLearning
+* Google Python IT Automation Certificate Course 1/6
 
 **˚ʚ♡ɞ˚ Connect with Me ˚ʚ♡ɞ˚**
 * I can be reached by email or drop me a message on GitHub!
