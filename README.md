@@ -15,7 +15,7 @@
 * Google Python IT Automation Certificate Course 1/6
 
 **˚ʚ♡ɞ˚ Connect with Me ˚ʚ♡ɞ˚**
-* I can be reached by email or drop me a message on GitHub!
+* I can be reached by email at h.alkhammal@gmail.com or drop me a message on GitHub!
 
 ˚ʚ♡ɞ˚ 
 ***Thanks for reading, and happy coding~***
