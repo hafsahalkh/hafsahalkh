@@ -3,7 +3,7 @@
 * I love to read, especially fantasy and romance books
 * I'm 22 years old
 * I have a black belt in taekwondo 🥋
-* In my future I hope to become a successful software engineer
+* In my future I hope to become a successful web developer
 * I have two cats Luna and Stache! Fun fact- Stache was nicknamed "Mustache" because he always had a milk mustache as a kitten & has a permanent white stache now
 
 **˚ʚ♡ɞ˚ Learning ˚ʚ♡ɞ˚**
