@@ -7,8 +7,7 @@
 * I have two cats Luna and Stache! Fun fact- Stache was nicknamed "Mustache" because he always had a milk mustache as a kitten & has a permanent white stache now
 
 **˚ʚ♡ɞ˚ Learning ˚ʚ♡ɞ˚**
-* Ongoing Bachelor's in CS
-* Beginning a combined BS/MS program in Spring of 2025
+* Ongoing Combined BS/MS in Computer Science w/ a track in Software Design and Development
 * Python Essential Training by Ryan Mitchell on LinkedinLearning
 * Learning Python with Joe Marini on LinkedinLearning
 * Advanced Python with Joe Marini on LinkedinLearning
