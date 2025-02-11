@@ -1,21 +1,24 @@
-**˚ʚ♡ɞ˚About Me ˚ʚ♡ɞ˚**
-* My name is Hafsah Alkhammal, I am a senior at Florida International University
-* I love to read, especially fantasy and romance books
-* I'm 22 years old
-* I have a black belt in taekwondo 🥋
-* In my future I hope to become a successful web developer
-* I have two cats Luna and Stache! Fun fact- Stache was nicknamed "Mustache" because he always had a milk mustache as a kitten & has a permanent white stache now
+<h1 align="center">Hi 👋, I'm Hafsah Alkhammal</h1>
+<h3 align="center">A passionate CS student from Miami, FL</h3>
 
-**˚ʚ♡ɞ˚ Learning ˚ʚ♡ɞ˚**
-* Ongoing Combined BS/MS in Computer Science w/ a track in Software Design and Development
-* Python Essential Training by Ryan Mitchell on LinkedinLearning
-* Learning Python with Joe Marini on LinkedinLearning
-* Advanced Python with Joe Marini on LinkedinLearning
-* Google Python IT Automation Certificate Course 1/6
+- 🔭 I’m currently working on [a Multithreading and Synchronization Project](https://github.com/abhijith183/OS-nachos-Team2)
 
-**˚ʚ♡ɞ˚ Connect with Me ˚ʚ♡ɞ˚**
-* I can be reached by email at h.alkhammal@gmail.com or drop me a message on GitHub!
+- 🌱 I’m currently learning **Operating Systems**
 
-˚ʚ♡ɞ˚ 
-***Thanks for reading, and happy coding~***
-˚ʚ♡ɞ˚
+- 👨‍💻 All of my projects are available at [https://github.com/hafsahalkh](https://github.com/hafsahalkh)
+
+- 💬 Ask me about **Java, C, and Python**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/hafsah-alkhammal-923925184/](https://www.linkedin.com/in/hafsah-alkhammal-923925184/)
+
+- ⚡ Fun fact **I have a black belt in Taekwondo!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hafsah-alkhammal-923925184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hafsah-alkhammal-923925184/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsahalkh&show_icons=true&locale=en&layout=compact" alt="hafsahalkh" /></p>
