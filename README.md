@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsahalkh&label=Profile%20views&color=0e75b6&style=flat" alt="hafsahalkh" /> </p>
 
-- 🔭 I’m currently working on [a Multithreading and Synchronization Project](https://github.com/abhijith183/OS-nachos-Team2)
+- 🔭 I’m currently working on [a Multithreading and Synchronization Project](https://github.com/abhijith183/OS-nachos-Team2) and [a Job Tracker Application Project](https://hafsahalkh.github.io/Job-Tracker-App/)
 
-- 🌱 I’m currently learning **Operating Systems**
+- 🌱 I’m currently learning **Operating Systems** and **React / Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hafsahalkh](https://github.com/hafsahalkh)
+- 👨‍💻 All of my projects are available at [https://github.com/hafsahalkh?tab=repositories]
 
-- 💬 Ask me about **Java, C, and Python**
+- 💬 Ask me about **Java and Python**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hafsah-alkhammal-923925184/](https://www.linkedin.com/in/hafsah-alkhammal-923925184/)
 
