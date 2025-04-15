@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Operating Systems** and **React / Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hafsahalkh?tab=repositories]
+- 👨‍💻 All of my projects are available at https://github.com/hafsahalkh?tab=repositories
 
 - 💬 Ask me about **Java and Python**
 
