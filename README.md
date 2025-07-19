@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsahalkh&label=Profile%20views&color=0e75b6&style=flat" alt="hafsahalkh" /> </p>
 
-- 🔭 I’m currently working on [a Multithreading and Synchronization Project](https://github.com/abhijith183/OS-nachos-Team2) and [a Job Tracker Application Project](https://hafsahalkh.github.io/Job-Tracker-App/)
+- 🔭 I’m currently working on [a DNS Lookup Client](https://github.com/hafsahalkh/CNT4713-Project3) and [a Job Tracker Application Project](https://hafsahalkh.github.io/Job-Tracker-App/)
 
 - 🌱 I’m currently learning **Operating Systems** and **React / Typescript**
 
