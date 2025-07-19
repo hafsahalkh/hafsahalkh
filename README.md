@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a DNS Lookup Client](https://github.com/hafsahalkh/CNT4713-Project3) and [a Job Tracker Application Project](https://hafsahalkh.github.io/Job-Tracker-App/)
 
-- 🌱 I’m currently learning **Operating Systems** and **React / Typescript**
+- 🌱 I’m currently learning **Computer Networking** and **React / Typescript**
 
 - 👨‍💻 All of my projects are available at https://github.com/hafsahalkh?tab=repositories
 
